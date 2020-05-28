@@ -23,12 +23,16 @@
 
 .nav2{
 	width: 50%;
-	display: flex;
-	align-items: center;	
-	 
+	display: flex; 
+	justify-content: space-between;
 }
 
-.nav2 a{
+.nav3{
+	display: flex;
+	align-items: center;
+}
+
+.nav3 a{
 	margin: 5px;
     padding: 5px;
     background-color: #588C80;
@@ -103,4 +107,12 @@
 
 .fea-img{
 	width: 100%;
+}
+
+.social-logo{
+	margin-right: 3px
+}
+
+.social-logo i{
+	padding: 3px;
 }
