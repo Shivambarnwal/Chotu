@@ -24,7 +24,7 @@
 .nav2{
 	width: 50%;
 	display: flex; 
-	justify-content: space-between;
+	justify-content: space-around;
 }
 
 .nav3{
@@ -116,3 +116,73 @@
 .social-logo i{
 	padding: 3px;
 }
+
+#download-page{
+	width: 100%;
+	background-color: #c3edea;
+	padding-top: 10px;
+}
+
+
+.download{
+	
+	font-size: 2rem; 
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+
+.down-head{
+	margin: 8px;
+}
+
+.download1{
+	display: flex;
+	width:100%;
+}
+
+.down-mob1{
+	width: 58%;
+}
+
+.down-mob2{
+	width: 64%;
+}
+
+
+.download1-1{
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.btn{
+	width:23%;
+    background: azure;
+    padding: 8px;
+    border-radius: 18px;
+}
+
+.down-input{
+    width: 25rem;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.btn1{
+	width:12%;
+    background: azure;
+    padding: 8px;
+    border-radius: 18px;
+}
+
+
+.down-base{
+	padding: 2.5rem;
+}
+
+
+
+
+
